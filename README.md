@@ -81,9 +81,6 @@
 | 吴恩达 | Agentic AI | Agentic AI 相关知识与应用 | AI 进阶 | [Bilibili](https://www.bilibili.com/video/BV1AJen6SEVQ/) |
 | 李宏毅 | 机器学习 | 机器学习基础理论与方法 | 机器学习入门 | [Bilibili](https://www.bilibili.com/video/BV1j94y1u7pR/) |
 | 李沐 | 动手学深度学习 | 深度学习理论与代码实践 | 深度学习入门 | [Bilibili](https://space.bilibili.com/1567748478/lists/358497?type=series) |
-| Stanford | CS25: Transformers United | Transformer 模型及人工智能前沿进展 | Transformer / LLM | [Stanford CS25](https://web.stanford.edu/class/cs25/) |
-| Microsoft | Generative AI for Beginners | 生成式 AI 应用开发基础 | GenAI 入门 | [GitHub](https://github.com/microsoft/generative-ai-for-beginners) |
-| MLaBonne | LLM Course | 大语言模型学习路线、课程与 Colab 实践 | LLM 入门 | [GitHub](https://github.com/mlabonne/llm-course) |
 
 ## 🧠 Generative AI / LLM
 
