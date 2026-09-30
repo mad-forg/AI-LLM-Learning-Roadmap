@@ -75,39 +75,15 @@
 
 ## 🎓 AI 基础
 
-### 吴恩达 — AI for Everyone
-
-适合 AI 初学者，用于建立人工智能领域的整体认知。
-
-🔗 [Bilibili](https://www.bilibili.com/video/BV1jyUHBkEtf/)
-
----
-
-### 吴恩达 — Agentic AI
-
-学习 Agentic AI 相关基础知识。
-
-🔗 [Bilibili](https://www.bilibili.com/video/BV1AJen6SEVQ/)
-
----
-
-## 🤖 机器学习 / 深度学习
-
-### 李宏毅 — 机器学习
-
-系统学习机器学习相关基础知识。
-
-🔗 [Bilibili](https://www.bilibili.com/video/BV1j94y1u7pR/)
-
----
-
-### 李沐 — 动手学深度学习
-
-通过理论与代码实践学习深度学习。
-
-🔗 [Bilibili](https://space.bilibili.com/1567748478/lists/358497?type=series)
-
----
+| 老师/机构 | 课程 | 学习目标 | 推荐顺序 |
+| :--- | :--- | :--- | :---: |
+| 吴恩达 | AI for Everyone | 建立对人工智能基本概念和应用领域的整体认知 | ① |
+| 李宏毅 | 机器学习 | 掌握机器学习基本概念、方法与模型 | ② |
+| 李沐 | 动手学深度学习 | 结合代码掌握深度学习核心理论与实践 | ③ |
+| Stanford | CS25: Transformers United | 了解 Transformer 及其在 AI 领域的前沿研究进展 | ④ |
+| 吴恩达 | Agentic AI | 学习 Agentic AI 的基本概念与相关应用 | ⑤ |
+| Microsoft | Generative AI for Beginners | 学习生成式 AI 应用开发的基础知识 | ⑥ |
+| MLaBonne | LLM Course | 系统学习大型语言模型，并结合 Notebook 进行实践 | ⑦ |
 
 ## 🧠 Generative AI / LLM
 
