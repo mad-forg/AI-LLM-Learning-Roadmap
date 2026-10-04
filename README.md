@@ -177,6 +177,17 @@
 🔗 [GitHub](https://github.com/Lordog/dive-into-llms)
 
 ---
+### Assignments for CS146S
+
+课程官网
+
+🔗 [CS146S](https://themodernsoftware.dev/)
+
+斯坦福大学2026年秋季开设的CS146S《现代软件开发者》课程作业的所在地。
+
+🔗 [GitHub](https://github.com/mihail911/modern-software-dev-assignments)
+
+---
 
 ### LLMs-from-scratch
 
