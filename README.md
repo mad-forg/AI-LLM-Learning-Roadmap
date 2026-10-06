@@ -81,6 +81,7 @@
 | 吴恩达 | Agentic AI | Agentic AI 相关知识与应用 | AI 进阶 | [Bilibili](https://www.bilibili.com/video/BV1AJen6SEVQ/) |
 | 李宏毅 | 机器学习 | 机器学习基础理论与方法 | 机器学习入门 | [Bilibili](https://www.bilibili.com/video/BV1j94y1u7pR/) |
 | 李沐 | 动手学深度学习 | 深度学习理论与代码实践 | 深度学习入门 | [Bilibili](https://space.bilibili.com/1567748478/lists/358497?type=series) |
+| 斯坦福 | cs336 | 完整的语言模型开发过程 | 有一定基础 | [Bilibili](https://www.youtube.com/watch?v=JuoVZkPBiKk&list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV) |
 
 ## 🧠 Generative AI / LLM
 
