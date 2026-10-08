@@ -134,9 +134,9 @@
 
 |  #  | Paper                                        |
 | :-: | :------------------------------------------- |
-|  01 | [Paper 01](https://arxiv.org/pdf/2604.20329) |
-|  02 | [Paper 02](https://arxiv.org/pdf/2510.15511) |
-|  03 | [Paper 03](https://arxiv.org/pdf/2507.07424) |
+|  01 | [Image Generators are Generalist Vision Learners](https://arxiv.org/pdf/2604.20329) |
+|  02 | [LANGUAGE MODELS ARE INJECTIVE AND HENCE INVERTIBLE](https://arxiv.org/pdf/2510.15511) |
+|  03 | [Corvid :ImprovingMultimodalLargeLanguageModelsTowards Chain-of-ThoughtReasoning](https://arxiv.org/pdf/2507.07424) |
 |  04 | [Paper 04](https://arxiv.org/pdf/2505.17534) |
 |  05 | [Paper 05](https://arxiv.org/pdf/2603.22386) |
 |  06 | [Paper 06](https://arxiv.org/abs/2509.02547) |
