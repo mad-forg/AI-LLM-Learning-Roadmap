@@ -137,11 +137,11 @@
 |  01 | [Image Generators are Generalist Vision Learners](https://arxiv.org/pdf/2604.20329) |
 |  02 | [LANGUAGE MODELS ARE INJECTIVE AND HENCE INVERTIBLE](https://arxiv.org/pdf/2510.15511) |
 |  03 | [Corvid :ImprovingMultimodalLargeLanguageModelsTowards Chain-of-ThoughtReasoning](https://arxiv.org/pdf/2507.07424) |
-|  04 | [Paper 04](https://arxiv.org/pdf/2505.17534) |
-|  05 | [Paper 05](https://arxiv.org/pdf/2603.22386) |
-|  06 | [Paper 06](https://arxiv.org/abs/2509.02547) |
-|  07 | [Paper 07](https://arxiv.org/pdf/2401.03568) |
-|  08 | [Paper 08](https://arxiv.org/pdf/2507.05201) |
+|  04 | [Co-Reinforcement Learning for Unified Multimodal Understanding and Generation4](https://arxiv.org/pdf/2505.17534) |
+|  05 | [From Static Templates to Dynamic Runtime Graphs:A Survey of Workflow Optimization for LLM Agents](https://arxiv.org/pdf/2603.22386) |
+|  06 | [The Landscape of Agentic Reinforcement Learning for LLMs:A Survey](https://arxiv.org/abs/2509.02547) |
+|  07 | [AGENT AI:SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION](https://arxiv.org/pdf/2401.03568) |
+|  08 | [MedGemma Technical Report](https://arxiv.org/pdf/2507.05201) |
 
 ---
 
