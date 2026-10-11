@@ -1,6 +1,6 @@
 # 🚀 AI / LLM Learning Roadmap
 
->  **AI / LLM 学习路线与资源整理**，从基础认知、入门课程，到论文阅读、项目实战以及 AI Tools / Skills，帮助学习者逐步建立完整的大模型知识体系与实践能力。
+>  **AI / LLM 学习路线与 资源整理**，从基础认知、入门课程，到论文阅读、项目实战以及 AI Tools / Skills，帮助学习者逐步建立完整的大模型知识体系与实践能力。
 
 <p align="center">
   <img src="./roadmap.png" width="800">
